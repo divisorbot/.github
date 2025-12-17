@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Divisor Docs
+    url: https://github.com/divisorbot/divisor-docs
+    about: Read the documentation first
